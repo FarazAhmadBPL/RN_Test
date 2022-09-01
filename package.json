@@ -1,5 +1,5 @@
 {
-  "name": "awesome_test",
+  "name": "awesome_test_rn",
   "version": "0.0.1",
   "scripts": {
     "android": "react-native run-android",
