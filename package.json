@@ -1,5 +1,5 @@
 {
-  "name": "AwesomeProject",
+  "name": "awesome_test",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -25,5 +25,21 @@
   },
   "jest": {
     "preset": "react-native"
-  }
+  },
+  "description": "Test Android & iOS with RN",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FarazAhmadBPL/RN_Test.git"
+  },
+  "keywords": [
+    "RN",
+    "Test"
+  ],
+  "author": "Faraz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FarazAhmadBPL/RN_Test/issues"
+  },
+  "homepage": "https://github.com/FarazAhmadBPL/RN_Test#readme"
 }
